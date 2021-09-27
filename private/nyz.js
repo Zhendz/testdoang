@@ -12,7 +12,7 @@ const helpmenu = (wit,wita,wib,tampilTanggal, UserZeeone, tampilHari , limitawal
 	return`╭─❒ *INFO BOT* 
 │❒ ${petik}𝖭𝖺𝗆𝖺 : ${botname}${petik}
 │❒ ${petik}Author : Nayla${petik}
-│❒ ${petik}Recode : Zeeone${petik}
+│❒ ${petik}Recode : HenBotz${petik}
 │❒ ${petik}Server : Baileys${petik}
 │❒ ${petik}RAM : ${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)}MB / ${Math.round(require('os').totalmem / 1024 / 1024)}MB${petik}
 │❒ ${petik}MCC : ${mcc}${petik}
@@ -727,7 +727,7 @@ ${petik}│❒ ${prefix}wetglass
 │❒ ${petik}RYNZ${petik}  
 │❒ ${petik}LOLI KILLERS${petik}  
 │❒ ${petik}ARA-ARA${petik} 
-│❒ ${petik}ZEEONE${petik} 
+│❒ ${petik}HenBotz${petik} 
 ╰───────────────┈ ⳹
 */
 const grupmenu = (boton, wit,wita,wib,kyun,tampilHarii, tampilTanggal, totalchat, UserZeeone, ucapannya, tampilWaktu , hitbot, speedbotz, sender, ownername,pushname, prefix, wa_version, mcc, mnc, os_version, device_manufacturer, device_model, giid) => {
